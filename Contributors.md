@@ -126,6 +126,7 @@ Pooja Muthalik
 - [Abdul Rafay](https://github.com/abdulrafay02)
 - [Matthew Burford](https://github.com/Mattb709)
 - [Sristy Sharma](https://github.com/beertocode)
+- [Armando Guardado]
 - [Matthew Burford] (https://github.com/Mattb709)
 - [Sristy Sharma] (https://github.com/beertocode)
 [Mani]
